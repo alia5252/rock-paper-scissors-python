@@ -1,0 +1,6 @@
+===== ROCK PAPER SCISSORS STATS =====
+Wins: 1
+Losses: 3
+Ties: 2
+Best Streak: 1
+High Score: 1
